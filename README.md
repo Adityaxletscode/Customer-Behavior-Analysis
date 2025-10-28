@@ -135,7 +135,7 @@ The Power BI dashboard provides a **visual summary** of all insights found throu
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/customer-behavior-analysis.git
+   git clone https://github.com/Adityaxletscode/Customer-Behavior-Analysis.git
    cd customer-behavior-analysis
    ```
 
