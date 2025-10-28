@@ -118,7 +118,7 @@ The Power BI dashboard provides a **visual summary** of all insights found throu
 - **Sales Trends by Season**  
 - **Payment Method Preferences**
 
-> *(Add dashboard screenshot or link here)*
+![Customer Behavior Analysis Dashboard](customer%20behavior%20analysis%20dashboard.png)
 
 ---
 
